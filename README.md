@@ -21,7 +21,9 @@ foram utilizadas mais de 40 fontes que incluiram:
 -Materiais sobre técnicas de estudo
 
 https://drive.google.com/file/d/1Q-xuGRpzcRy3JMswWnNzVBB4JM5Qz6cv/view?usp=sharing
+
 https://youtu.be/dAnBtcdEwXA?si=3HJGr2-aDGmR8OS9
+
 https://youtu.be/FEGr8BFB-3M?si=1Br5E40tpbHZmKmz
 
 ---
@@ -32,6 +34,7 @@ https://youtu.be/FEGr8BFB-3M?si=1Br5E40tpbHZmKmz
 Quais hábitos diários prejudicam a nossa memória e foco?
 
 **RESPOSTA:**
+
 - Prática da Multitarefa
 - Verificação Compulsiva de Notificações
 - Privação ou Negligência do Sono
@@ -59,6 +62,7 @@ Refinar prompt com mais contexto.
 ## Miniguia de Estudo
 
 ### Como o cérebro aprende
+
 - O cérebro muda com prática (neuroplasticidade)  
 - Esforço melhora retenção  
 - Sono consolida memória  
@@ -66,6 +70,7 @@ Refinar prompt com mais contexto.
 ---
 
 ### Hábitos ruins 
+
 - Prática da Multitarefa
 - Verificação Compulsiva de Notificações
 - Privação ou Negligência do Sono
