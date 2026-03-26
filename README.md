@@ -35,10 +35,10 @@ Quais hábitos diários prejudicam a nossa memória e foco?
 
 **RESPOSTA:**
 
-- Prática da Multitarefa
 - Verificação Compulsiva de Notificações
 - Privação ou Negligência do Sono
 - Consumo Passivo de Informação
+- Prática da Multitarefa
 
 **Aprendizado:**
 Prompts específicos e diretos geram respostas melhores
