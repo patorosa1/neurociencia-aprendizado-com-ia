@@ -1,3 +1,13 @@
+##  Acesso ao NotebookLM
+
+Este é o material completo utilizado no projeto, incluindo todas as fontes, análises e interações com IA:
+
+👉 Acesse o notebook completo
+
+https://notebooklm.google.com/notebook/473e25a3-a84f-48dc-9b4a-e98318884ec5
+
+
+
 Projeto desenvolvido como parte do portfólio de aprendizado em Inteligência Artificial e análise de dados.
 
 # neurociencia-aprendizado-com-ia
